@@ -71,4 +71,5 @@ Q. Lifi technology to connect to internet using LED bulb. How does it work?
 
 Q. What is net neutralility Violation of net neutrality in real life (1) ICU hospital (2) BRTS vs common busses (3) VIP 
 darshan @temples. What are your views on each of them?
+
 Q. What is Google glass? how it works? How will you use it in medical, police, public service, Smart city administration?
